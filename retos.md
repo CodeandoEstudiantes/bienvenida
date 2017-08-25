@@ -1,6 +1,7 @@
 # RETOS DE HACKING CÍVICO #
 
-Esta es una lista de los retos abeirtos a los que podrás acceder para cada una de las rutas (Cívica, Coder, Hacker).
+Esta es una lista de los retos abiertos a los que podrás acceder para cada una de las rutas de Estudiantes (Cívica, Coder, Hacker).
+¡Consulta las [lecciones y material adicional](https://www.codeandomexico.org/estudiantes)!
 
 
 ## RUTA CÍVICA ##
