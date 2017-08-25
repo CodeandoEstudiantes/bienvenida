@@ -16,6 +16,7 @@ Esta iniciativa, apoyada por [Microsoft Youthspark](https://www.microsoft.com/es
 
 ¡**[Súmate](https://goo.gl/forms/HENDLHlGK18we9tM2)** a la nueva generación de hackers cívicos para el país!
 
+## COMPONENTES ##
 
 #### a. RETOS DE HACKING CÍVICO ####
 Lecciones y retos en línea para aprender a programar y contribuir al bien común con tecnología, acompañados de videos complementarios compartidos por mentores y la comunidad de estudiantes. ¡Empieza a aprender y resolver retos hoy!
@@ -30,7 +31,7 @@ Estamos recorriendo centros educativos por todo el país. Participa en nuestros 
 
 
 
-### RUTAS CODEANDO MÉXICO ESTUDIANTES ###
+### RUTAS ###
 Las lecciones, talleres y retos del programa se dividen en **3 rutas**:
 
 <p align="center">
