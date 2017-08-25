@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/6744123/29693673-bbee7c60-88fc-11e7-9f43-b56062473be9.png" width="800" title="logo_codeando 1 -500">
+<img src="https://user-images.githubusercontent.com/6744123/29693673-bbee7c60-88fc-11e7-9f43-b56062473be9.png" width="1000" title="banner-estudiantes">
 </p>
 
 [![website](https://img.shields.io/badge/website-CodeandoMexico-00D88E.svg)](http://www.codeandomexico.org/estudiantes)
