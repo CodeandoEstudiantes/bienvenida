@@ -31,7 +31,7 @@ Estamos recorriendo centros educativos por todo el país. Participa en nuestros 
 
 
 
-### RUTAS ###
+## RUTAS ##
 Las lecciones, talleres y retos del programa se dividen en **3 rutas**:
 
 <p align="center">
@@ -51,7 +51,7 @@ Conviértete en un hacker cívico con habilidades avanzadas de programación y d
 
 
 
-### ¡PARTICIPA HOY! ###
+## ¡PARTICIPA HOY! ##
 Si te interesa participar en alguna de estas actividades, ya sea como estudiante, profesor u organización, tenemos un espacio para ti:
 
 - **¡[Regístrate](https://goo.gl/forms/HENDLHlGK18we9tM2) y comienza a aprender!** Muy pronto se publicarán las primeras Lecciones y Retos de hacking cívico.
