@@ -19,7 +19,7 @@ Esta iniciativa, apoyada por [Microsoft Youthspark](https://www.microsoft.com/es
 ## COMPONENTES ##
 
 #### a. RETOS DE HACKING CÍVICO ####
-Lecciones y retos en línea para aprender a programar y contribuir al bien común con tecnología, acompañados de videos complementarios compartidos por mentores y la comunidad de estudiantes. ¡Empieza a aprender y resolver retos hoy!
+Lecciones y retos en línea para aprender a programar y contribuir al bien común con tecnología, acompañados de videos complementarios compartidos por mentores y la comunidad de estudiantes. **¡Empieza a aprender y resolver retos hoy!**
 
 #### b. CLUBES DE HACKING CÍVICO ####
 Aprende y colabora construyendo tecnología para el bien común junto con más estudiantes de tu escuela y mentores de la comunidad de Codeando México.
@@ -27,7 +27,7 @@ Aprende y colabora construyendo tecnología para el bien común junto con más e
 ¿Quieres iniciar un Club de Hacking Cívico en tu centro de estudios? Descarga el **Playbook** para aprender cómo hacerlo y **[registra un nuevo Club](https://goo.gl/forms/T64s2BvVNafj5rrY2)**
 
 #### c. GIRA DE HACKING CÍVICO ####
-Estamos recorriendo centros educativos por todo el país. Participa en nuestros talleres sobre hacking cívico y programación orientada a resolver problemas comunes. 
+Estamos recorriendo centros educativos por todo el país. Participa en nuestros talleres sobre hacking cívico y programación orientada a resolver problemas comunes. ¡Escríbenos a estudiantes@codeandomexico.org para traer la gira a tu centro de estudios!
 
 
 
@@ -57,5 +57,5 @@ Si te interesa participar en alguna de estas actividades, ya sea como estudiante
 - **¡[Regístrate](https://goo.gl/forms/HENDLHlGK18we9tM2) y comienza a aprender!** Muy pronto se publicarán las primeras Lecciones y Retos de hacking cívico.
 - **¡Comienza un Club de Hacking Cívico!** Descarga el Playbook que te guiará por todos los pasos necesarios para organizarte con más estudiantes y hackear por el bien común colaborando. Una vez que lo hayas leído, **[registra un nuevo Club](https://goo.gl/forms/T64s2BvVNafj5rrY2)** y nos pondremos en contacto contigo.
 - **¡Lleva la Gira de Hacking Cívico a tu escuela!** Escríbenos a estudiantes@codeandomexico.org para buscar oportunidades de llevar la gira de talleres a tu ciudad.
-- **¡Anótate como mentor(a)!** Si te interesa acompañar las actividades de los Clubes, impartir talleres o compartir tus hacks, puedes [sumarte a la red de mentores](https://goo.gl/forms/HENDLHlGK18we9tM2)  de Codeando México Estudiantes.
+- **¡Anótate como mentor(a)!** Si te interesa acompañar las actividades de los Clubes, contribuir con contenidos, impartir talleres o compartir tus hacks, puedes **[sumarte a la red de mentores](https://goo.gl/forms/HENDLHlGK18we9tM2)**  de Codeando México Estudiantes.
 
