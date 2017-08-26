@@ -2,8 +2,8 @@
 <img src="https://user-images.githubusercontent.com/6744123/29693673-bbee7c60-88fc-11e7-9f43-b56062473be9.png" width="1000" title="banner-estudiantes">
 </p>
 
-[![website](https://img.shields.io/badge/website-CodeandoMexico-00D88E.svg)](http://www.codeandomexico.org/estudiantes)
-[![slack](https://img.shields.io/badge/slack-CodeandoMexico-EC0E4F.svg)](https://codeandoestudiantes.slack.com/)
+[![website](https://img.shields.io/badge/website-Estudiantes-69E6B6.svg)](www.codeandomexico.org/estudiantes)
+[![slack](https://img.shields.io/badge/slack-Estudiantes-F7446B.svg)](https://codeandoestudiantes.slack.com/)
 
 # Codeando México Estudiantes
 ###  ¡Una nueva generación de hackers cívicos lista para aprender y transformar! ###
