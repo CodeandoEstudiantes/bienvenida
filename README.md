@@ -59,3 +59,8 @@ Si te interesa participar en alguna de estas actividades, ya sea como estudiante
 - **¡Lleva la Gira de Hacking Cívico a tu escuela!** Escríbenos a estudiantes@codeandomexico.org para buscar oportunidades de llevar la gira de talleres a tu ciudad.
 - **¡Anótate como mentor(a)!** Si te interesa acompañar las actividades de los Clubes, contribuir con contenidos, impartir talleres o compartir tus hacks, puedes **[sumarte a la red de mentores](https://goo.gl/forms/HENDLHlGK18we9tM2)**  de Codeando México Estudiantes.
 
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/6744123/29790307-f9ec7170-8bfe-11e7-8880-7ba32c9cf77b.png" width="800" title="footer-estudiantes">
+</p>
+
